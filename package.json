@@ -1,0 +1,15 @@
+{
+  "name": "fun-with-electron",
+  "version": "1.0.0",
+  "description": "Playing around with electron",
+  "main": "app.js",
+  "dependencies": {
+    "electron": "^1.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
