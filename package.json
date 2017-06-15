@@ -4,6 +4,7 @@
   "description": "Playing around with electron",
   "main": "app.js",
   "dependencies": {
+    "cat-picture": "^5.1.2",
     "electron": "^1.6.11"
   },
   "devDependencies": {},
